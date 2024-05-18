@@ -32,7 +32,7 @@ Welcome to Movie App! This simple web application allows you to browse movies by
 
 👤 **Author1**
 
-- Github: [thedekerone](https://github.com/JorgeArteagaR3)
+- Github: [jorgearteagar3](https://github.com/JorgeArteagaR3)
 - Linkedin: [linkedin](https://www.linkedin.com/in/jorgeaaranibar/)
 
 ## Getting started
