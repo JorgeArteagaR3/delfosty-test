@@ -73,7 +73,6 @@ export const MoviesProvider = ({ children }: MoviesProviderProps) => {
 
   useEffect(() => {
     const getMovies = async () => {
-      console.log("hello");
       try {
         setLoading(true);
         await delay(1500);
